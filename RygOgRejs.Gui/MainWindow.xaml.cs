@@ -52,7 +52,7 @@ namespace RygOgRejs.Gui
 
         private void MenuHelpAbout_Click(object sender, RoutedEventArgs e)
         {
-            MessageBox.Show("Dette er et eksempel på løsning af S2 eksamensopgaven Ryg & Rejs", "Om Ryg & Rejs", MessageBoxButton.OK, MessageBoxImage.Asterisk);
+            MessageBox.Show("Version: RygOgRejse v1.0\nProgrammeret af TheReaper666\nGithub: https://github.com/TheReaper666","RygOgRejse - OM", MessageBoxButton.OK, MessageBoxImage.Asterisk);
         }
     }
 }
