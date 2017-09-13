@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace RygOgRejse.Entities
+namespace RygOgRejse.DataAccess
 {
-    public class Class1
+    class TransactionRepository
     {
     }
 }

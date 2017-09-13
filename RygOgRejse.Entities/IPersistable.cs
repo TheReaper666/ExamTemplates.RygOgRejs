@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace RygOgRejse.DataAccess
+namespace RygOgRejse.Entities
 {
-    public class Class1
+    interface IPersistable
     {
     }
 }
