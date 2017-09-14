@@ -8,5 +8,6 @@ namespace RygOgRejse.Entities
 {
     interface IPersistable
     {
+
     }
 }

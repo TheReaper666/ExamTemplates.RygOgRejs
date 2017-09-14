@@ -46,5 +46,11 @@
     <Compile Include="QueryExecutor.cs" />
     <Compile Include="TransactionRepository.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\RygOgRejs.Gui\RygOgRejs.Gui.csproj">
+      <Project>{786fd000-9752-457c-b9a2-72f3a2144f77}</Project>
+      <Name>RygOgRejs.Gui</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
